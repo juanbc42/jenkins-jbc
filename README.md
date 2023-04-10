@@ -20,6 +20,7 @@ RUN apk add python3-dev
 
 ## to build an image
 ``` docker build -t jenkins-jbc:latest . 
+
 ```
 
 ## to run the image (-> container)
